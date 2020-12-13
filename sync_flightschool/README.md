@@ -1,4 +1,4 @@
-# esx_dmvschool
+# Sync Flight School
 Realistic Flight school for ESX
 
 ## Requirements
